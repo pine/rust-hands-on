@@ -1,0 +1,9 @@
+[package]
+name = "grep"
+version = "0.1.0"
+authors = ["Pine Mizune <pinemz@gmail.com>"]
+
+[dependencies]
+getopts = "0.2.14"
+regex = "0.2.1"
+
