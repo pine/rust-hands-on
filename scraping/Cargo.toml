@@ -1,0 +1,7 @@
+[package]
+name = "scraping"
+version = "0.1.0"
+authors = ["Pine Mizune <pinemz@gmail.com>"]
+
+[dependencies]
+scraper = "0.4.0"
