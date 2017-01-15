@@ -21,3 +21,6 @@ $ cargo run
 Hello, world!
 Hello, world! 128 128
 ```
+
+## License
+Public Domain
