@@ -9,7 +9,7 @@ fn fib(n: i32) -> i32 {
 }
 
 fn main() {
-    for i in 0..10 {
-        println!("fib({}) = {:3}", i, fib(i));
+    for i in 0..11 {
+        println!("fib({:2}) = {:3}", i, fib(i));
     }
 }
